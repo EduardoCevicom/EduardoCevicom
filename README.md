@@ -1,9 +1,23 @@
-# 👋 Olá! Eu sou o Eduardo
+## 👨‍💻 Olá, me chamo Eduardo
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🧑‍💻 Estagiário em Suporte Técnico   
+Atuo como QA (Tester) em um sistema para clínicas de saúde e curso **Análise e Desenvolvimento de Sistemas (ADS) no CEUB**.
+
+Utilizo este perfil para estudos práticos, testes e evolução contínua em engenharia de software.
+
 ---
 
-## 👨‍💼 Sobre mim
+## 🧪 Atuação
+- Testes manuais e exploratórios  
+- Validação de bugs e fluxos críticos  
+- Análise de PRs e regras de negócio  
+- Uso diário de GitHub (Issues, PRs, versionamento)
+  
+---
+- ## 📌 Objetivo
+  
+Construir uma base sólida em engenharia de software, unindo **qualidade + desenvolvimento**.
 
-Atualmente atuo como estagiário de suporte técnico em uma empresa que fornece sistemas para clínicas e consultórios de saúde. Minha missão é garantir que os usuários tenham a melhor experiência possível com a plataforma, prestando suporte, tirando dúvidas e propondo melhorias.
+---
+
+## ⚠️ Nota
+Este perfil é utilizado para estudos, testes e evolução técnica contínua.
