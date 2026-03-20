@@ -1,4 +1,4 @@
-## 👨‍💻 Olá, me chamo Eduardo
+## 👨‍💻 Olá, me chamo Eduardo!
 
 Atuo como QA (Tester) em um sistema para clínicas de saúde e curso **Análise e Desenvolvimento de Sistemas (ADS) no CEUB**.
 
